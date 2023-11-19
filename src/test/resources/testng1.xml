@@ -4,8 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.flexiquiz.qa.testcases.HomePageTestCases"/>
-      <class name="com.flexiquiz.qa.extentreportlistener.ExtentReportListener"/>
-      <class name="com.flexiquiz.qa.testcases.DashboradPageTestCases"/>
       <class name="com.flexiquiz.qa.testcases.LoginPageTestCases"/>
     </classes>
   </test> <!-- Test -->
