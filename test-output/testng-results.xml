@@ -2,70 +2,70 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-19T01:28:36 GMT" name="Suite" finished-at="2023-11-19T01:28:52 GMT" duration-ms="16084">
+  <suite started-at="2023-11-19T21:49:10 GMT" name="Suite" finished-at="2023-11-19T21:49:26 GMT" duration-ms="16321">
     <groups>
     </groups>
-    <test started-at="2023-11-19T01:28:36 GMT" name="Test" finished-at="2023-11-19T01:28:52 GMT" duration-ms="16084">
+    <test started-at="2023-11-19T21:49:10 GMT" name="Test" finished-at="2023-11-19T21:49:26 GMT" duration-ms="16321">
       <class name="com.flexiquiz.qa.testcases.LoginPageTestCases">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:44 GMT" name="setUp" finished-at="2023-11-19T01:28:46 GMT" duration-ms="2309" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:19 GMT" name="setUp" finished-at="2023-11-19T21:49:21 GMT" duration-ms="2167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginPageTest()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:46 GMT" name="loginPageTest" finished-at="2023-11-19T01:28:49 GMT" duration-ms="2215" status="PASS">
+        <test-method signature="loginPageTest()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:21 GMT" name="loginPageTest" finished-at="2023-11-19T21:49:23 GMT" duration-ms="2490" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:49 GMT" name="tearDown" finished-at="2023-11-19T01:28:49 GMT" duration-ms="179" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:23 GMT" name="tearDown" finished-at="2023-11-19T21:49:23 GMT" duration-ms="190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:49 GMT" name="setUp" finished-at="2023-11-19T01:28:51 GMT" duration-ms="2473" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:23 GMT" name="setUp" finished-at="2023-11-19T21:49:26 GMT" duration-ms="2568" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="rememberMeCheckBoxTest()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:51 GMT" name="rememberMeCheckBoxTest" finished-at="2023-11-19T01:28:51 GMT" duration-ms="80" status="PASS">
+        <test-method signature="rememberMeCheckBoxTest()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:26 GMT" name="rememberMeCheckBoxTest" finished-at="2023-11-19T21:49:26 GMT" duration-ms="64" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rememberMeCheckBoxTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T01:28:51 GMT" name="tearDown" finished-at="2023-11-19T01:28:52 GMT" duration-ms="167" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.LoginPageTestCases@6c0d9d86]" started-at="2023-11-19T21:49:26 GMT" name="tearDown" finished-at="2023-11-19T21:49:26 GMT" duration-ms="175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.flexiquiz.qa.testcases.LoginPageTestCases -->
       <class name="com.flexiquiz.qa.testcases.HomePageTestCases">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:36 GMT" name="setUp" finished-at="2023-11-19T01:28:39 GMT" duration-ms="3811" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:10 GMT" name="setUp" finished-at="2023-11-19T21:49:14 GMT" duration-ms="3877" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="flexiLogoImageTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:39 GMT" name="flexiLogoImageTest" finished-at="2023-11-19T01:28:39 GMT" duration-ms="79" status="PASS">
+        <test-method signature="flexiLogoImageTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:14 GMT" name="flexiLogoImageTest" finished-at="2023-11-19T21:49:14 GMT" duration-ms="62" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flexiLogoImageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:39 GMT" name="tearDown" finished-at="2023-11-19T01:28:40 GMT" duration-ms="204" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:14 GMT" name="tearDown" finished-at="2023-11-19T21:49:14 GMT" duration-ms="168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:40 GMT" name="setUp" finished-at="2023-11-19T01:28:42 GMT" duration-ms="1879" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:14 GMT" name="setUp" finished-at="2023-11-19T21:49:16 GMT" duration-ms="1899" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="navigateToLoginPageTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:42 GMT" name="navigateToLoginPageTest" finished-at="2023-11-19T01:28:42 GMT" duration-ms="402" status="PASS">
+        <test-method signature="navigateToLoginPageTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:16 GMT" name="navigateToLoginPageTest" finished-at="2023-11-19T21:49:16 GMT" duration-ms="433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToLoginPageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:42 GMT" name="tearDown" finished-at="2023-11-19T01:28:42 GMT" duration-ms="119" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:16 GMT" name="tearDown" finished-at="2023-11-19T21:49:16 GMT" duration-ms="97" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:42 GMT" name="setUp" finished-at="2023-11-19T01:28:44 GMT" duration-ms="1939" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:16 GMT" name="setUp" finished-at="2023-11-19T21:49:18 GMT" duration-ms="1924" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:44 GMT" name="verifyHomePageTitleTest" finished-at="2023-11-19T01:28:44 GMT" duration-ms="8" status="PASS">
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:18 GMT" name="verifyHomePageTitleTest" finished-at="2023-11-19T21:49:18 GMT" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T01:28:44 GMT" name="tearDown" finished-at="2023-11-19T01:28:44 GMT" duration-ms="145" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexiquiz.qa.testcases.HomePageTestCases@73194df]" started-at="2023-11-19T21:49:18 GMT" name="tearDown" finished-at="2023-11-19T21:49:18 GMT" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
