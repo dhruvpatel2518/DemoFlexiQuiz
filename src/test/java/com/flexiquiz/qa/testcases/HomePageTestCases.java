@@ -44,6 +44,11 @@ public class HomePageTestCases extends TestBase {
 		Assert.assertEquals(loginPageTitle, "Login - FlexiQuiz");
 	}
 	
+	public void verifySignUpPageTitleTest() {
+		String title = homePage.verifySignUpPageTitle();
+		Assert.assertEquals(title, "Sign Up");
+	}
+	
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();

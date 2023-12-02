@@ -36,4 +36,9 @@ public class HomePage extends TestBase {
 		loginBtn.click();
 		return new LoginPage();
 	}
+	
+	public String verifySignUpPageTitle() {
+		signupBtn.click();
+		return driver.getTitle();
+	}
 }
